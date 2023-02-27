@@ -3,12 +3,12 @@ firstly you need to give the link input to the program of the product which you 
 this program is pirtucally runs for only 5 times based on the product price it provide the graph
 
 modules used :
-1.Regex 
-2.bs4 
-3.datetime 
-4.time
-5.matplotlib
-6.request 
+Regex 
+,bs4 
+,datetime 
+,time
+,matplotlib
+,request 
 
 flow of program :
 
