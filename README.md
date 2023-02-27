@@ -5,10 +5,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
-# import time
-# import schedule
 from datetime import datetime
-# import email_alarm as ea
 
 
 def curr_date_time():
