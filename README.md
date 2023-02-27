@@ -1,5 +1,7 @@
 # Flipkart_price_tracking
 
+
+#----------------------------------------------------- main prog--------------------------------------------------------
 import re
 import time
 import requests
@@ -20,8 +22,6 @@ def curr_date_time_min():
     # dd/mm/YY H:M:S
     dt_string = now.strftime("%M")
     return dt_string
-#----------------------------------------------------- main prog--------------------------------------------------------
-
 url=input("enter the link of product you want to track")
 
 price_lis=[]
